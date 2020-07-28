@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "All Categories"
+    url: /categories/
+  - title: "|"
+    url: /
+  - title: "Search"
+    url: /search/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: "Development"
+    children:
+      - title: "Flutter"
+        url: /categories/#Flutter/
+      - title: "Android"
+        url: /categories/#Android/
+
+  - title: Personal
+    children:
+      - title: "Diary"
+        url: /categories/#Diary/
