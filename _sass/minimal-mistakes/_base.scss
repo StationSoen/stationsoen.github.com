@@ -171,11 +171,12 @@ td > code {
   padding-bottom: 0.1rem;
   font-size: 0.8em;
   border-radius: $border-radius;
-  color: white;
 /*below value is changed by Sunghyun*/
   background: $base00;
   margin-left: 0.2em;
   margin-right: 0.2rem;
+  color: $base07;
+
 
   &:before,
   &:after {
