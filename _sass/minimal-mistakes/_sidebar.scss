@@ -138,7 +138,7 @@
 }
 
 .author__content {
-  display: table-cell;
+  display: none;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
@@ -183,7 +183,7 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: none;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 20;
