@@ -54,10 +54,11 @@ body {
     margin-right: 0;
     width: 100%;
     clear: both;
-
+    .page__date {
+      text-align: right;
+    }
     .page__content,
-    .page__meta,
-    .page__share {
+    .page__meta {
       position: relative;
       float: left;
       margin-left: 0;
@@ -65,8 +66,21 @@ body {
       width: 100%;
       clear: both;
     }
+    .page__share{
+      position: relative;
+      float: left;
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
+      clear: both;
+      text-align: right;
+    }
+    
+    
   }
+
 }
+
 
 .page__title {
   margin-top: 0;
