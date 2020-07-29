@@ -2,8 +2,6 @@
 main:
   - title: "All Categories"
     url: /categories/
-  - title: "|"
-    url: /
   - title: "Search"
     url: /search/
   # - title: "Sample Collections"
