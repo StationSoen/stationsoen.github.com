@@ -1,7 +1,7 @@
 ---
-title : Dart : Factory
-date : 2020-08-19
-categories : Flutter
+title: Dart-Factory
+date: 2020-08-19
+categories: Flutter
 ---
 
 ## Factory : [참고](https://software-creator.tistory.com/5)
